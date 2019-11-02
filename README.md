@@ -2,7 +2,7 @@
 
 This is a **Work In Progress**.
 
-This the hardware design for a simple bluetooth-enabled lock controller device.
+This the hardware design for a simple bluetooth-enabled lock controller device. It is a KiCad project.
 
 The software for this device is in a [separate repo](https://github.com/jpablo128/lockcontroller-software).
 
